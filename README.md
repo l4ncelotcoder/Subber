@@ -6,4 +6,4 @@ A subdomain scanner is a tool which scans all subdomains of a particular domain.
 
 # Support
 
-Version: 3.10.10\nDontforget
+python --version: 3.10.10
